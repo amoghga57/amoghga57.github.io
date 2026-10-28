@@ -1,2 +1,2 @@
 # app-ads.txt
-Description for the ads
+Description for the adss
